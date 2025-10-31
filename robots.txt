@@ -1,0 +1,9 @@
+# Mengizinkan semua robot mengakses situs
+User-agent: *
+Allow: /
+
+# Sitemap lokasi
+Sitemap: https://heylink.me/gertoto404/sitemap.xml
+
+# Crawling tips
+Crawl-delay: 10
