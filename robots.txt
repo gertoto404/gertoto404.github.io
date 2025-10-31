@@ -1,0 +1,15 @@
+# Memperbolehkan semua robot mengakses situs
+User-agent: *
+Allow: /
+
+# Blokir crawler yang tidak penting
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+
+# Sitemap lokasi
+Sitemap: https://heylink.me/gertoto404/sitemap.xml
+
+# Cache & indexing tips
+Crawl-delay: 10
