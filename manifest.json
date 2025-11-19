@@ -1,0 +1,16 @@
+{
+  "name": "GERTOTO404",
+  "short_name": "GERTOTO404",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e0e0e",
+  "theme_color": "#ffd46b",
+  "description": "Portal profil dan link resmi GERTOTO404.",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
